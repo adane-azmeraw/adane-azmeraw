@@ -1,4 +1,4 @@
-I am Adane I was born in Ethiopia in 2002. With a passion for technology and a dream of becoming a great programmer,
+I am Adane I was born in Ethiopia since 2002. With a passion for technology and a dream of becoming a great programmer,
 I embarked on a journey that led me to pursue a degree in computer science at Hawassa University.
 Recognizing the importance of a solid educational foundation, I enrolled in Hawassa University to pursue a degree in computer science.
 The university provided me with a comprehensive curriculum that covered a wide range of subjects,
